@@ -1,0 +1,11 @@
+{
+  "mongoRunner": {
+    "connections": [
+      {
+        "name": "cluster-1",
+        "url": "mongodb://cluster0-shard-00-00-e6ksx.mongodb.net:27017,cluster0-shard-00-01-e6ksx.mongodb.net:27017,cluster0-shard-00-02-e6ksx.mongodb.net:27017/admin?replicaSet=Cluster0-shard-0&ssl=true",
+        "user": "admin"
+      }
+    ]
+  }
+}
